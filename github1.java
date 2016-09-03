@@ -8,7 +8,7 @@ class positive
 		System.out.print("Enter a number:");
 		n=in.nextInt();
 		if(n>0)
-		System.out.print("The no is positive");
+		System.out.print("The number is positive");
 		else if(n=0)
 		System.out.print("The number is equal to zero");
 		else
